@@ -1,0 +1,1094 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great eclipse of the sun, or Charles his waine over-clouded, by the evill influences of the moon, the malignancie of the ill-aspected planets, and the constellations of retrograde and irregular starres. Otherwise, great Charles, our gracious king, eclipsed by the destructive perswasions of his queen, by the pernicious aspects of his cabbinet counsell, and by the subtill insinuations of the Popish faction, priests, Jesuites and others. As also from the firing of towns, the shedding of innocent blood, and the cries of his subjects.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85590</idno>
+            <idno type="STC">Wing G1688</idno>
+            <idno type="STC">Thomason E7_30</idno>
+            <idno type="EEBO-CITATION">99868857</idno>
+            <idno type="PROQUEST">99868857</idno>
+            <idno type="VID">163955</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85590)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163955)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 2:E7[30], 247:E7[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great eclipse of the sun, or Charles his waine over-clouded, by the evill influences of the moon, the malignancie of the ill-aspected planets, and the constellations of retrograde and irregular starres. Otherwise, great Charles, our gracious king, eclipsed by the destructive perswasions of his queen, by the pernicious aspects of his cabbinet counsell, and by the subtill insinuations of the Popish faction, priests, Jesuites and others. As also from the firing of towns, the shedding of innocent blood, and the cries of his subjects.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed according to order, by G.B.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>August. 30. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Tightly bound.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:163955:1" rendition="simple:additions"/>
+            <pb facs="tcp:163955:2" rendition="simple:additions"/>
+            <p>The Great Eclipſe of the <hi>Sun,</hi> OR, CHARLES HIS WAINE
+Over-clouded, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y the evill
+<hi>Influences</hi> of the <hi>Moon,</hi> the malignan<g ref="char:EOLhyphen"/>cie of Ill-aſpected
+<hi>Planets,</hi> and the Conſtellations of Retrograde and Irregular
+<hi>Starres.</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>therwiſe, Great
+CHARLES, our Gracious KING, Eclipſed
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y the deſtructive perſwaſions
+of His <hi>Queen,</hi> by the pernicious aſpects of his <hi>Cabbinet
+Counſell,</hi> and by the ſubtill inſinuations of the <hi>Popiſh
+Faction, Prieſts, Jeſuites</hi> and others. As alſo from the firing of
+<hi>Towns,</hi> the ſhedding of <hi>Innocent Blood,</hi> and the
+<hi>Cries</hi> of his <hi>Subjects.</hi>
+            </p>
+            <figure>
+               <figDesc>depiction of Charles I's suppression of his
+subjects</figDesc>
+               <l>Thy Subjects blood!</l>
+               <l>with fire and ſword,</l>
+               <l>Cries <hi>Vengeance Lord.</hi>
+               </l>
+            </figure>
+            <q> 
+               <l>
+                  <hi>Conſcience</hi> that checks th' poor man for his
+ſinne,</l> 
+               <l>Heere plaies the <hi>Ghoſt,</hi> and tells our miſ-lead
+KING,</l> 
+               <l>That firing houſes, and his Subjects ſlaughter,</l> 
+               <l>Have ſo Eclips'd him, hee'l ſcarce ſhine hereafter:</l> 
+               <l>For when by <hi>Fire</hi> and <hi>Sword</hi> Kings bloody
+prove,</l> 
+               <l>They looſe at once their <hi>Light,</hi> and <hi>Subjects</hi>
+love.</l>
+            </q>
+            <p>Printed according to Order, by <hi>G. B.</hi> Auguſt. 30.
+1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:163955:3"/>
+            <head>The great Eclipſe of the <hi>Sun.</hi> OR <hi>Charles</hi>
+his <hi>VVaine.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Common-wealth may moſt fitly be compared to the Glo<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the Heavens. The King is the
+<hi>Sun,</hi> the Parliament are t<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+bright <hi>Stars;</hi> Malignant Counſellours to the King, are the ev<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> aſpected <hi>Plannets,</hi> ſuch
+as <hi>Briſtoll, Cottington,</hi> Lord Keep<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Littleton, Digby, Jermyn,</hi> and others, whereby the King
+h<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> been Eclipſed, and hath loſt
+that Light which ſhould rend<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> him
+Glorious in the eyes of his People, and brought himſ<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to the loweſt degree of reſpect amongſt his
+Subjects; A<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> whereas the King
+ſhould have been a <hi>Sun,</hi> ſhining by examp<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and maintaining the <hi>Light</hi> of the
+<hi>Goſpel,</hi> hee hath ſuffered it from the beginning of
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Reigne, to be extinguiſhed
+and put out; wee ſhould have had no Goſpel, nor any Fai<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> but what the King and the Biſhops
+would have forced upon us; This Plot was handſo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ly carried on by the Biſhop of <hi>Canterbury,</hi>
+and had not our Brethren of <hi>Scotland</hi> be<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> true, Popery had ſpread it ſelf over this Kingdome,
+and long ſince we had been <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+Papiſts and ſlaves to the King and his Prerogative. For the King was
+eclipſed by t<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Queen,</hi>
+and ſhe perſwaded him that Darkneſſe was Light, and that it was better
+to be <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Papiſt, then a
+Proteſtant, the Biſhops affirmed as much, and the Learned Divin<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Preached good <hi>Romane</hi> Doctrine
+at Court, and cring'd and bow'd in the pulpit, flatte<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the King, pray'd for the Queen, and ſo got
+advancement to be Prebends and Dea<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+of great Cathedrall Churches. The Judges put out the Light of the Kings
+underſta<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſting, by telling
+him, <hi>That he had an unbounded Prerogative;</hi> The Court Politicians
+info<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>med him that Monopolies and
+Taxes would make his Subjects obedient, that ſuch mil<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> beginnings of ſlavery would make the people fit and
+apt for ſubjection, and that t<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+Counſell-Table would be a terrour to thoſe that were ſtubborne, and the
+High Comm<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſion Court and
+Star-chamber would ſerve to Fine, and puniſh offenders. The light
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Kings underſtanding being
+thus Eclipſed, and the eyes of the <hi>Proteſtant Rel<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> being put out, we muſt have groap'd out the way
+to heaven through Catholike blin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>neſſe, without any light at all, unleſſe it were the
+<hi>Wax Candles</hi> burning on the Altar,
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Light of Meriting by giving
+Almes; and the Biſhops told the King, it was true Re<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>gion<pb n="3" facs="tcp:163955:3"/>to pray unto the Lady
+<hi>Mary,</hi> and be rul'd by his little <hi>Queen Mary,</hi> for this was
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dolatry, but the way to increaſe
+his Royall Off-ſpring, and Progeny, whereupon
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> King being in full Conjunction
+with this <hi>Popiſh Plannet,</hi> the Queen, hee was totally
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lipſed by her Counſell, who
+under the Royall Curtaines, perſwaded him to advance
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Plots of the Catholikes, under
+the colour of mainteining the <hi>Proteſtant Religion.</hi> Or<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nary women, can in the Night time
+perſwade their husbands to give them new Gowns
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Petticotes, and make them grant
+their deſire; and could not Catholick Queen <hi>Mary</hi>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ink ye) by her night
+diſcourſes, encline the King to Popery? and make him beleeve
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he had no true obedient
+Subiects, but Catholikes, that there was no ſalvation out of
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Church of <hi>Rome,</hi> that
+his Maieſties Predeceſſors of famous memory were Catholiks,
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Univerſities deſired
+the advancement of Popery, all their Colledges being built
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Papiſts, that it was no
+diſparagement for his Maieſty to acknowledge the Suprema<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the Pope, while the
+<hi>Roundheads</hi> would take away his <hi>Prerogative,</hi> and therefore
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Maieſtie ſhould protect the
+Papiſts, and they would defend his Right, and pray for
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as their ſupream Governour
+next under the Pope. The Queen having thus read a <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>taine Lecture</hi> to the King, hee began to be full of
+Fears and Jealouſies, and to look
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a diſcontented brow upon his
+Parliament, and came with a ſwaggering crew of
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mmy-Cavaliers to the Houſe of
+Commons, to take away the five Members, which
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>le Act, being in vaine attempted,
+his Maieſtie was perſwaded, that his Perſon was
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> danger by the comming to Court
+of a ſwarming multitude (as he called them) of un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> factious <hi>Browniſts, Anabaptists,</hi> and
+<hi>Roundheads,</hi> and ſo forſaking the Parliament, he
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ed downe from <hi>London</hi> to
+<hi>York,</hi> thinking by his preſence to gaine the Love of his <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>thern</hi> Subiects, that is, The
+Catholikes and Delinquents in thoſe parts, and ſo fell
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with his Parliament and people,
+&amp; would not Love them, that were ſick of Love for
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, but in his <hi>Waine,</hi> or
+Charriot (like <hi>Phaethon</hi>) down he went, with his Evill Coun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ors, that governed his affections, made
+him ſet <hi>England</hi> on fire, and engage is in the
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mbuſtion of a civill warre; then
+he began to ſet on foot the illegall <hi>Commiſſion of Ar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>,</hi> and to get a Guard about him, as
+bigge as an Army, while his Maieſtie made fine
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eeches to the Maior of
+<hi>Yorke,</hi> and to the Gentry and Yeomen in that County, endea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ring to make the Parliament odious, and
+crying out for aſſiſtance againſt the Parlia<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nt, that would induce an Alteration of Government, and
+would all be Kings. The <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>bitious
+Clergy, preach't very earneſtly for the King; and contributed very largely to
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e the King an Army, to maintaine
+his <hi>Right,</hi> and the <hi>Proteſtant Religion,</hi> but indeed to
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hold the Uſurping Biſhops, who
+were then ready with <hi>Lucifer,</hi> to fall down even as
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as Hell.</p>
+            <p>The <hi>Sun</hi> of Maieſtie, being thus Eclipſed by Errour,
+by Evill Counſell, and by the <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rs
+of Papiſts and Delinquents; has ſummonned by Proclamation, all the
+Malignants <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> aſſiſt him in
+rayſing a ſpeedy warre againſt the Parliament, adviſing them, that as
+they <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dred Monarchy, and the true
+Proteſtant Religion, they ſhould endeavour, under the
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>our of a Guard, to raiſe him a
+great Army.</p>
+            <p>Hereupon the Malignants began to move forward in a poſture of
+warre againſt the<pb n="4" facs="tcp:163955:4"/>Parliament, the Gentry ſided with his
+Maieſtie, and the common people were compel'<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or led on by a blind affection to the Crowne.</p>
+            <p>The Biſhops began alſo to buſſell up themſelves, and to
+ſtand for the King an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Queene,
+they remembred that Kings and Queenes had ever been indulgent fathers an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nurſing mothers to the <hi>Roman</hi>
+Church, that unleſſe they had a King to ſupport their Lub<g ref="char:EOLunhyphen"/>berly
+Lordſhips, they could not be King in their owne Dioces over the reſt of the
+Cle<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>gie; and beſides the
+Parliament had voted them out of the Houſe, and therefore the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would with St. <hi>Pauls</hi> ſword
+fight for the Pope; Biſhop <hi>Williams</hi> ſomtimes Chancellou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>England,</hi> got himſelfe
+Armes, with a Sword and Gauntlet, to kill Round-heads; he<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaw his Biſhoprick was not long liv'd, and hee would
+not live to ſee it tooke from him<g ref="char:punc">▪</g> he had rather be kill'd or hang'd,
+which he deſerv'd and his other fellow Biſhops, ra<g ref="char:EOLunhyphen"/>ther then be outed and
+caſt out of his Dioces and fat Biſhoprick; with theſe fat Bul<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that were ſilent enough in their
+Pulpits) all the Malecontents ioyned, and all Proiecto<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that by Monopolies had made <hi>England</hi> mourne in
+foule linen, not for her ſinnes, but fo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> want of ſoape, and ſome that had heard of <hi>William</hi> the
+Conqerour, would have Kin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Charles</hi> be a Conquerour of his owne ſubiects; but it had beene
+better for him that he<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had
+Conquer'd himſelfe, Conquer'd his own paſſion, ſubdu'd his affection to
+Poperi<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and ſubiected himſelfe
+to reaſon, and come home unto his Parliament, then to be carrie<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on by evil councellours to ſhed the
+blood of his ſubiects, giving Commiſſion to Prin<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Rupert</hi> to butcher and kill his ſubiects, and
+fire their houſes; and all becauſe they wou<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> not be ſlaves, or put on fetters being born unto
+freedom; but would rather have the Ki<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſee his errors, and acknowledge what others ſee and know, and
+have felt by the rage <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Kings
+ſword: O therefore let the King encline his Royall heart unto his people,
+an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if he will be written valiant to
+poſterity, let him I ſay, Conquer himſelf, and return fro<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Rebells and Traitors that
+poſſeſſe him. It is the eye of Juſtice which they ſhun, and h<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Sword which they fear: But the King
+hath in this a Prerogative, that he muſt onely
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> tri'd <hi>in Foro
+Conſcientiae,</hi> in the Court of his own Conſcience, and no doubt but
+Mer<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> may weigh downe his ſinnes,
+if he would yet put an end to theſe bloody Warres, and
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> friends with his Parliament and
+people; then he would ſhine againe in glory, but now
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the caſe ſtands all the
+love and obedience ſhew'd him by his ſubjects by the hazard
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their lives, to regain his
+Royall perſon, and to preſerve their Liberties and Religion, a<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> not at all regarded, and having loſt
+the light of Reaſon, the light of Religion, and Mo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rall humanity, he doth yet endeavour by the help of the
+Cavaliers, to cut a paſſage wi<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+the ſword for the <hi>Romiſh</hi> religion to enter into <hi>England;</hi>
+yet it muſt march in upon t<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> legs
+of the Proteſtant Religion, beare the ſame colours with it, and with Armies
+in t<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Weſt, and Armies in the
+North all muſt be waſted and conſum'd, and all the Proteſtan<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> kil'd, and then the King and the
+Biſhops and the Cavaleirs will alone maintain the Pr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>teſtant Religion, and then there would be a ſtrange
+new Government, if King <hi>Charl<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> could ſubdue his ſubiects and bring them to ſlavery, he
+might be well called and ſtile<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>William</hi> the Conquerour; for he would have his will prefer'd above Law,
+and as it is <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>France,</hi>
+we ſhould not have a bed, a diſh, nay a ſpoone, or a ſtool to ſit
+upon, but it mig<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <pb n="5" facs="tcp:163955:4"/>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> taken from us for the
+Kings uſe, the Cavaleirs do ſhew you how it ſhould be in <hi>Eng<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd,</hi> they plunder and take away all
+they can finde, the goods of the Round-heads are
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eir owne, they have the Kings
+Commiſſion for it, and if they will not yeeld they will
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ke them ſmoak for it, ſetting
+fire to the towne, and though the King be Eclipſ'd and
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſeen in theſe actions, yet
+he cannot walke nor ride ſo inviſible but his hand hath been
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>en in theſe plundering firing
+Commiſſions, Signed with <hi>C. R.</hi> whereby wee may ſee,
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>at <hi>R.</hi> which ſtands for
+the King is to be much blamed; for what the Cavaleirs do, may
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſaid to be done by the King, if
+the Kings affections were not cruelly bent, the Cava<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eirs actions would not be ſo bloody nor inhumane; but
+they know that all his Proteſta<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions to maintain the Proteſtant Religion were but complement, and
+that now hee is ſo darkned in true glory, that we had need to pray he may
+recover the light of his Sceprer, <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d the love of his ſubiects, and therefore they will fight it out;
+deſperate diſeaſes muſt <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave
+deſperate cures, and the King will pawne his Crowne (if he could get it from
+<hi>Weſt<g ref="char:EOLhyphen"/>minſter</hi>) to maintaine the Miter, and now fight Dog fight
+Bear, fight Cavaleir and fight Round-head, you have bark'd long enough at one
+another, and now the King will have you fight it out, though you fight him out
+of his Kingdome, and make him and his Ca<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>leirs flie downe Weſtward, as if his Maieſtie had
+done ſome miſchiefe, he knowes the
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound-heads will make ſevere
+conſtructions of his proceedings, and that his will firſt
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rried him from his Parliament; but
+ther's a thing call'd Conſcience that doth follow
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fter the King and his Cavaleirs,
+faſter then our Armies can doe, it doth bring in a Cata<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>gue of crimes, and will twich the King by the heart and
+give him ſhrewd Items, it is worſe then <hi>Hamlets</hi> Ghoſt; for it
+will haunt him every where, and cry unto him, O King
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>pect revenge for the blood of thy
+ſubiects. VVho hath waſted, undone, and ruinated
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e moſt famous Kingdom of
+<hi>England?</hi> who hath fir'd the Towns, plunder'd, kill'd, and
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſtroy'd his own ſubiects? who
+hath given Commiſſion for it? who hath broke his word
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd his promiſes made in ſo many
+Declarations? who ſent for the <hi>Iriſh</hi> rebells to come
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver to kill the Proteſtants, and
+who in all this war hath endeavour'd nothing but the
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>intaining of Popery and his own
+Prerogative, I fear Conſcience doth tell his Maie<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y it was King <hi>Charles;</hi> who hath for three yeers
+together and upward maintain'd an un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>turall war againſt his Parliament and people? Conſcience
+replies, King <hi>Charles?</hi> who
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nt into <hi>Spaine</hi> to learn
+the Proteſtant religion, then return'd and married a Catholick Queene? who
+hath been a chief party in miſchief againſt the Proteſtants? who harkned
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Queene <hi>Maries</hi>
+counſell, and beleeved it more then Gods word, and was angry and
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ught with his ſubiects, and
+'tother day hang'd up fourteen Clothiers, was nor the King
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>en preſent?</p>
+            <p>Did hee not come with an Armie from <hi>Yorke,</hi> which was all
+compoſed of Malignants <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd
+Delinquents that fled from the Parliament, and of Papiſts, though His
+Maieſtie <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>romiſed their horſes
+ſhould have Proteſtant Riders, there were (as I ſaid before) firſt
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Biſhops, or the Biſhops
+Malignant money, which was ſent into pay Souldiers that
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ould fight under the Popes Banner;
+and the lack-Latine Prieſts and Clergie contribu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed largely to the Kings Armie, fearing
+that for their ignorance and ſcandalous lives,<pb n="6" facs="tcp:163955:5"/>they ſhould
+be thruſt out of their Viccarages and Parſonages, and that the
+Parliamen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would put Religious
+Miniſters in their places. The young flaſhing Gentrie that ha<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſpent their father Patrimonie, in
+whoring and dicing, theſe would ſtake their fortune<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with the King, in hope to get eſtates and be Knighted
+for cutting the Proteſtants throat<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> The countrey people would have their old wayes, their old
+faſhions, and their old Re<g ref="char:EOLunhyphen"/>ligion, their old Homilies, which were better then
+Round-head Sermons, they woul<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have
+Feaſts and Ruſh-bearings in the North, and Saint dayes, and give Cakes for
+a<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Chriſten Souls on All-Soules
+day, and being Ingram people, halfe Papiſts and half<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Atheiſts, they would ſtand for the King and the old
+Common prayer Booke, as for th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+Goſpel and the Parliament, they knew not what they were, but they were
+perſwaded i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their countrey
+conſciences, they ought to honour and obey the King.</p>
+            <p>And thus with an Army of Malignant Nobilitie, Clergie, Gentrie and
+Common peo<g ref="char:EOLunhyphen"/>ple, the King came to <hi>Kenton-field,</hi> and in ſome houres
+ſpace made the ground looke re<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+with the blood of his Subjects, is it for this he now hides his face from us,
+is he aſhame<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that ſo many of
+his Subjects lives ſhould be loſt in one Field, I find no ſuch matter
+i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Story, the King from this
+Field gets into the Weſt, there to reſt himſelfe after he ha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> done ſo good a dayes work in
+butchering his Subiects at <hi>Kenton field,</hi> where many thou<g ref="char:EOLunhyphen"/>ſands fell
+on both ſides, as Sacrifices to his Prerogative.</p>
+            <p>But the King being now in the Weſt, moſt of the Malignants
+coming in unto him, h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had (as he
+thought) an invincible Armie, and therefore hee was reſolved now with a<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> crueltie to proceed againſt the
+Round-heads, and the Cavaliers proceeded in plunde<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing and firing of Townes, and killing all Round-heads;
+for it was his Maieſties pleaſur<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they ſhould ſo doe; Alaſſe what needes the King hide
+himſelf from the ſight of his Par<g ref="char:EOLunhyphen"/>liament, and his other Subiects, hee
+fights but to maintaine his will as a law, or a thin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> above the law called Prerogative: Can Maieſtie ſhine
+glorious without crueltie? Le<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+Subiects hate their King, ſo they feare him, a few evill Counſellours can
+protect hi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from all danger, and
+hath he not an Armie for a guard? It is then nothing but Conſci<g ref="char:EOLunhyphen"/>ence, this
+troubleſome thing Conſcience, that will be telling His Maieſtie of his
+faults and in deſpight of <hi>Digby, Cottington,</hi> and <hi>Jermin,</hi>
+will take the King alone, and charg<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+the King with many cruell actions, that it hath rain'd blood all his raigne,
+that thoug<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Pope and all the
+Devills in hell ſhould encourage him in this bloudy warre, yet it i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unnaturall in the ſight of God and
+man, that there is a Hell and Domeſ-day, and Dam<g ref="char:EOLunhyphen"/>nation, as well for Kings,
+as poor Subiects, that when His Maieſtie after a happy raign<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhould end his dayes in a good old
+age, and with the love and honour of his Subiects b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> laid into his grave, what can he expect
+who hath murdred ſo many of His Subiects, an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> laid them in their Graves: But alas King, flie not from this
+Conſcience, hide not thy ſelfe, doe not flie from place to place before the
+Lord Generalls Armie: Looſing game<g ref="char:EOLunhyphen"/>ſters will change their places to change
+their luck, ſick men will change their chambers to change their diſeaſes:
+But thou, O King, that wert wont to cure the Kings evill in thy Subiects, art
+now made a King of evill conſequence and deſtruction to thy King<g ref="char:EOLhyphen"/>dome, by
+the influence of evill Councellours, the beames of Mercie, Pietie,
+Religion<g ref="char:punc">▪</g>
+               <pb n="7" facs="tcp:163955:5"/>Obedience to the Lawes, Omnipotency in
+goodneſſe, not badneſſe, Will conformable
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Gods Will, and thy Juſtice
+which ſhould empale thy Brow, are took away from thee
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Cavaliers; ſo that thou
+doſt not ſee, or if ſee, not pittie thy diſtreſſed Subiects,
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d as long as thou art thus
+affected, thus darkned in thy Royall Attributes, and wilt be
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nely a King of Rebels and
+Cavaleirs, thou ſhalt be like unto <hi>Noahs</hi> Dove, not in inno<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ency, but in flying from placs to place, and ſhalt not
+finde a place to reſt thy foot in, as
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ng as this Deluge of blood doth
+overflow thy Kingdome.</p>
+            <p>But what a ſawcie fellow is this Conſcience? Canſt thou not
+meddle with thy match, <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d tell poor
+men onely of their offences? Me thinkes thou ſhould'ſt have little deſire
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> follow the Kings campe, when
+thou wert formerly whipt out of his Court, and out
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all the Courts of Juſtice;
+for hadſt thou continued in this Kingdome, the Pope and
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Majeſtie, and his Biſhops
+could never have brought about their own ends: but when
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ou and Religion were baniſht
+both together, then the Biſhops began to laugh in their
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>awne ſleeves, then they thought
+to have alter'd the Caſe, and to alter the Table, alter
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eir Poſture Preaching and Lordly
+titles, the little Biſhop ſhould have been a great
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rdinall, and the other Biſhops
+ſhould have governed the Church more Roman, ac<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ording to the Roman faſhion, and it ſhould have beene
+dreſt and trickt up with the <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ages of St. <hi>Anthony,</hi> St. <hi>Francis,</hi> St.
+<hi>Patrick,</hi> St. <hi>John</hi> of <hi>Jeruſalem,</hi> St.
+<hi>Dominick,</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d the Lady
+<hi>Marie;</hi> then Croſſes, ſhould have b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en new builded and painted over,
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>re ſhould have been little
+Preaching, unleſſe they were Sermons of Libertie and free<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome of ſports upon the Sabbath-day.
+And the little Levites the ſmall Lights of the Goſpel, ſhould have walked
+in cloakes downe to their ſhooes like <hi>Jeſuites,</hi> being in the
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>niverſities <hi>Jeſuited</hi>
+in heart as well as habit, the Star-chamber ſhould then have cen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r'd Religious men to have their eares
+cut and clipt, as ſome were that ſuffer'd for thy
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ke; becauſe Conſcience would
+not permit them to ſee Poperie and blindnes brought
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o this land, to ſee the light of
+the Goſpel Eclipſed and blowne out by the Divell and
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Biſhops; but Conſcience what
+haſt thou to do with Kings? may not they be flat<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r'd that they are Gods; but that thou
+muſt tell them they are but men? and that if they
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>verne not their Subjects according
+to the known Lawes of the Land, and doe allow
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eir Subjects their Rights and
+Liberties, ſeeking not to alter but maintaine their Reli<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, they are no better then wilfull
+bloody Tyrants. Is this thy blunt way of ſpeaking
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>to Kings? Well as long as thou
+takeſt this courſe, and doſt lay before the King his
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e, his er<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ors, his ſpilling of blood, with a long Catalogue of
+private ſinnes, never <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>agine that
+thou ſhalt riſe in his favour, or be made a Biſhop; for there was never
+any <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eat Courtier, Biſhop,
+Lord-Keeper, or any eminent States-man that was created Lord-<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onſcience, Biſhop-Conſcience,
+Lord-Keeper-Conſcience; for as ſoone as they were
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>vanced to theſe dignities they
+had no Conſcience at all, but would take bribes in the
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y of golden thanks, for giving
+unjuſt judgement to the overthrow of the beſt cauſes.</p>
+            <p>Is it not a fault in thee Conſcience that the King cannot reſt
+in his chamber, but thou <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſt make
+him ſee ſtrange Dreames and Viſions, as the battell at
+<hi>Kenton-field,</hi> where ſo <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ch blood was ſpilt for the King; for this the King doth hide
+himſelfe, is aſhamed, and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>clipſ'd from the ſight of his Subjects.</p>
+            <p>
+               <pb n="8" facs="tcp:163955:6"/>Why doſt thou tell him of his Commiſſion
+of Array, arming his Subjects to kill
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> another? This is an old Story,
+muſt thou Conſcience revive theſe matters in the Ki<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> remembrance, and thereby ſeeke to Eclipſe his fame
+and glory.</p>
+            <p>Cannot the Cavaleirs plunder the Kingdom all over, and fire Townes
+<hi>cum privile<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> and ſhew
+the Kings hand, giving them Commiſſion for it? but thou Conſcience
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> make the Kings heart ake for
+it, and tell him this is the way to be counted a Tyrant,
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to be Eclipſed in the love of
+his Subjects.</p>
+            <p>Muſt not his Maieſtie favour Delinquent Lords: but thou
+Conſcience muſt tell <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they
+are evill Counſellours, and that he hath almoſt undone Himſelfe and his
+Poſter<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> by being ruled by theſe
+Malignants, who know if the wars ſhould ceaſe, the block
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> expect them, or the gallowes,
+and therefore they will fight to defend the King from
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Enemies, which indeed are
+themſelves, and the King muſt fight againſt his Subject<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> keep them from the hands of
+Juſtice, and by this the fame and renowne of King <hi>Cha<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> is Eclipſed.</p>
+            <p>Cannot the King ſuffer the <hi>Iriſh</hi> to kill ſo many
+thouſand Proteſtants, and the<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+make a Ceſſation of Armes with them, and to call them his Catholike
+ſubiects, and af<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ward to ſend
+for them by ten thouſands at a time to aide him in this unnaturall war;
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Conſcience muſt tell the
+King that this is contrary to his Proteſtations of maintain<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Proteſtant Religion, when indeed
+this war was <hi>Bellum Papale,</hi> the <hi>Popes</hi> war, and
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſetting up of Popery was
+alwayes intended: doth not this cruelty, this falſe dealing,
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> bringing over and ſending for
+<hi>Iriſh</hi> Rebells, Eclipſe the glory of his Maieſtie?</p>
+            <p>Conſcience ſeems thus to reply, I fear neither King nor
+Subject; The King I tell <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> true
+is in a great Eclipſe of light and love of his people, I have ſhak'd him up
+ſoun<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and told him that he mockt
+the people with a ſmooth pretence of the maintaining
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Proteſtant Religion, that to
+defend Delinquents hee ſhould not lay his Crowne at ſta<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> for if he ſhould looſe that, he
+could not ſtake again, that the dye of war was uncert<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that in this war nothing was certain to his Maieſtie
+but loſſe, loſſe of his credit, and p<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>haps the loſſe of his Kingdoms, that it was his fathers glory
+to write this for his Mo<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Beati
+Pacifici:</hi> But his Motto will in ſucceeding Ages be writ in Caracters of
+blo<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> thus, <hi>Maledicti
+Belligeri,</hi> Curſed are the war-makers, That all the blood which
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> been ſpilt will be laid unto
+his Maieſties charge: But the King is Eclipſed ſtill, F<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> by the Queene in chamber Coniunction
+with her, and now ſince by Malignant Coun<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lers, he hath (with griefe be it written) no Light, no Reaſon, no
+Religion left, but a<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Ecclipſed,
+and there is nothing but God and his owne conſcience that can diſcover
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him that great Eclipſe of
+Light which hee now ſuffers in the Weſt, the cauſes whe<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> have been here largely declared, and
+the King proved to be in a great Eclipſe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
